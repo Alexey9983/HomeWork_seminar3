@@ -1,0 +1,15 @@
+C:\Users\Дом\Documents\Учеба\№3_Языки програм\HW\homeW4\obj\Debug\net6.0\homeW4.csproj.AssemblyReference.cache
+C:\Users\Дом\Documents\Учеба\№3_Языки програм\HW\homeW4\obj\Debug\net6.0\homeW4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дом\Documents\Учеба\№3_Языки програм\HW\homeW4\obj\Debug\net6.0\homeW4.AssemblyInfoInputs.cache
+C:\Users\Дом\Documents\Учеба\№3_Языки програм\HW\homeW4\obj\Debug\net6.0\homeW4.AssemblyInfo.cs
+C:\Users\Дом\Documents\Учеба\№3_Языки програм\HW\homeW4\obj\Debug\net6.0\homeW4.csproj.CoreCompileInputs.cache
+C:\Users\Дом\Documents\Учеба\№3_Языки програм\HW\homeW4\bin\Debug\net6.0\homeW4.exe
+C:\Users\Дом\Documents\Учеба\№3_Языки програм\HW\homeW4\bin\Debug\net6.0\homeW4.deps.json
+C:\Users\Дом\Documents\Учеба\№3_Языки програм\HW\homeW4\bin\Debug\net6.0\homeW4.runtimeconfig.json
+C:\Users\Дом\Documents\Учеба\№3_Языки програм\HW\homeW4\bin\Debug\net6.0\homeW4.dll
+C:\Users\Дом\Documents\Учеба\№3_Языки програм\HW\homeW4\bin\Debug\net6.0\homeW4.pdb
+C:\Users\Дом\Documents\Учеба\№3_Языки програм\HW\homeW4\obj\Debug\net6.0\homeW4.dll
+C:\Users\Дом\Documents\Учеба\№3_Языки програм\HW\homeW4\obj\Debug\net6.0\refint\homeW4.dll
+C:\Users\Дом\Documents\Учеба\№3_Языки програм\HW\homeW4\obj\Debug\net6.0\homeW4.pdb
+C:\Users\Дом\Documents\Учеба\№3_Языки програм\HW\homeW4\obj\Debug\net6.0\homeW4.genruntimeconfig.cache
+C:\Users\Дом\Documents\Учеба\№3_Языки програм\HW\homeW4\obj\Debug\net6.0\ref\homeW4.dll
